@@ -1,0 +1,49 @@
+h1 {
+  font-size: 30px;
+}
+
+.section {
+  background-color: lightblue;
+}
+
+#unique {
+  border: 2px solid black;
+}
+
+body {
+  background-color: lightgray;
+}
+
+a:hover {
+  color: green;
+  text-decoration: underline;
+}
+
+p {
+  color: darkblue;
+  background-color: lightyellow;
+}
+
+h1 {
+  background-color: lightcoral;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card {
+  background-color: lightgreen;
+  padding: 20px;
+  margin: 15px;
+  border: 1px solid gray;
+}
+
+.card h3 {
+  font-size: 24px;
+  text-align: center;
+}
+
+.card p {
+  font-size: 16px;
+}
